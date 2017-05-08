@@ -1,0 +1,249 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="alternate" type="application/rss+xml" title="Help Sean Fight Cancer &raquo; Home Comments Feed" href="http://www.helpseanfightcancer.com/home/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.helpseanfightcancer.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.4.9"}};
+			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;return g&&g.fillText?(g.textBaseline="top",g.font="600 32px Arial","flag"===a?(g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3):"diversity"===a?(g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e):("simple"===a?g.fillText(h(55357,56835),0,0):g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='https://api.w.org/' href='http://www.helpseanfightcancer.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.helpseanfightcancer.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.helpseanfightcancer.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.4.9" />
+<link rel="canonical" href="http://www.helpseanfightcancer.com/" />
+<link rel='shortlink' href='http://www.helpseanfightcancer.com/' />
+<title>  Help Sean Fight Cancer</title>
+<link rel="stylesheet" type="text/css" media="all" href="http://www.helpseanfightcancer.com/wp-content/themes/fightcancer-custom/style.css" />
+
+<link href='http://fonts.googleapis.com/css?family=Coming+Soon' rel='stylesheet' type='text/css'>
+
+<link rel="icon" href="http://xxxx.com/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="http://xxxx.com/favicon.ico" type="image/x-icon">
+
+<style type="text/css">
+<!--
+.style1 {
+	color: #000000;
+	font-weight: bold;
+}
+-->
+</style>
+ <link href="p7exp.css" rel="stylesheet" type="text/css"> 
+<script type="text/javascript" src="p7exp.js"></script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-6136756-13']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+
+<body  onload="P7_ExpMenu()">
+
+<div id="container">
+
+<div id="header"><div id="slogan">We Never Stop Fighting</div></div>
+
+<div id="my-menu"><div id="navigation"><div class="menu-main-navigation-container"><ul id="menu-main-navigation" class="menu"><li id="menu-item-24" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-4 current_page_item menu-item-24"><a href="http://www.helpseanfightcancer.com/">Home</a></li>
+<li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23"><a href="http://www.helpseanfightcancer.com/about-me/">About Me</a></li>
+<li id="menu-item-33" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33"><a href="http://www.helpseanfightcancer.com/uterine-cancer/">Uterine Cancer</a></li>
+<li id="menu-item-122" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-122"><a href="http://www.helpseanfightcancer.com/get-inspired/">Get Inspired</a></li>
+<li id="menu-item-123" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-123"><a href="http://www.helpseanfightcancer.com/get-involved/">Get Involved</a></li>
+<li id="menu-item-35" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-35"><a href="http://www.helpseanfightcancer.com/contact-me/">Contact Me</a></li>
+</ul></div></div></div>
+
+<div id="content">
+<div id="contentleft"> <img src="../wp-content/themes/fightcancer-custom/pics/picture-of-sean-fighting-cancer.jpg" alt="sean krum - fighting cancer" />
+   <img src="../wp-content/themes/fightcancer-custom/pics/fight-cancer-social-media-facebook-twitter.jpg" alt="fight cancer social media: facebook, twitter" border="0" />
+   <p>Follow Sean on <a href="http://www.facebook.com/pages/Help-Sean-Fight-Cancer/258298334229296" target="_blank">Facebook</a>! </p> 
+    <!--
+    
+    <h1>Quick Links</h1>
+    <p class="pod"><a href="about-sean-cancer-fight.html#supporters" target="_self">Supporters</a><br />
+      <a href="uterine-cancer.html#cancer-resources" target="_self">Cancer Resources</a><br />
+      <a href="uterine-cancer.html#signs-and-symptoms-of-uterine-cancer" target="_self">Signs & Symptoms of Uterine Cancer</a>
+      <br />
+     </p>
+   <br />
+   -->
+    
+<!-- the loop -->
+<!-- BP: neat line of code which grabs the location of this page and makes a link out of the title name on screen for visitor to click. <a href="" rel="bookmark"></a> -->
+<!-- BP: tells what the page ID is  -->
+<h1>Quick Links</h1>
+<p><a href="http://www.helpseanfightcancer.com/about-me">Supporters</a><br />
+<a href="http://www.helpseanfightcancer.com/uterine-cancer/">Cancer Resources</a><br />
+<a href="http://www.helpseanfightcancer.com/uterine-cancer/">Signs &amp; Symptoms of Uterine Cancer</a></p>
+ 
+<!-- reset post data -->
+   
+   
+   <script charset="utf-8" src="http://widgets.twimg.com/j/2/widget.js"></script>
+<script>
+new TWTR.Widget({
+  version: 2,
+  type: 'profile',
+  rpp: 10,
+  interval: 30000,
+  width: 'auto',
+  height: 300,
+  theme: {
+    shell: {
+      background: '#dedede',
+      color: '#33313C'
+    },
+    tweets: {
+      background: '#ffffff',
+      color: '#33313C',
+      links: '#0000ff'
+    }
+  },
+  features: {
+    scrollbar: true,
+    loop: false,
+    live: true,
+    behavior: 'all'
+  }
+}).render().setUser('seanfightcancer').start();
+</script>
+   
+ </div>
+<div id="contentmiddle">
+<!-- this is the content loop which grabs the content from whatever page is being accessed -->
+    <!-- template tags that work within the loop must be in the middle area here. -->
+<h1>Fighting Cancer</h1>
+<p>Hi, my name is Sean and I am the proud founder of www.helpseanfightcancer.com. My story is my own, but like many of you reading this it started when a loved one was diagnosed with cancer. <strong>The purpose of my site is to bring awareness and HOPE to those who have experienced the heartache and pain that cancer causes.</strong></p>
+<p><strong></strong>My mother <a href="http://www.gilmanandvalade.com/2009/marilyn-t-krom/" target="_blank">Marilyn Krom</a> was diagnosed with Uterine Cancer in early 2008.  She was shocked at the diagnosis, and could not believe this was happening  <a href="http://www.helpseanfightcancer.com/about-me/">read more&#8230;</a></p>
+<h1>There is HOPE</h1>
+<p>Cancer can cause great heartache and it is my hope to help in any way that I can. Don&#8217;t hesitate to <a href="http://www.helpseanfightcancer.com/contact-me/">contact me</a> for anything.</p>
+<h1>Uterine Cancer</h1>
+<p>In the United States, approximately 42,000 women each year are diagnosed with uterine cancer &#8211; the most common malignancy of the female genital tract and the fourth most common cancer in women.</p>
+<p>Uterine cancer forms in tissues of the uterus, which is a pear-shaped organ in the pelvis where a fetus grows. The cervix is at the lower, narrow end of the uterus, and leads to the vagina. Uterine cancer can appear in cells lining the uterus (endometrium) and in muscle or other tissues in  <a href="http://www.helpseanfightcancer.com/uterine-cancer/">read more&#8230;</a></p>
+<!-- this line ends the loop -->
+
+
+</div>
+  
+ 
+  <div id="contentright">
+  
+  
+      
+<!-- the loop -->
+<!-- BP: neat line of code which grabs the location of this page and makes a link out of the title name on screen for visitor to click. <a href="" rel="bookmark"></a> -->
+<!-- BP: tells what the page ID is  -->
+<h1>Upcoming Events</h1>
+<p><a href="http://register.aratrace.com/search/event.aspx?id=38097" target="_blank">We Never Stop Fighting 5K in Loving Memory of Marilyn T. Krom</a><br />
+Eastford, CT<br />
+September 17th, 2016</p>
+<h1>Past Events</h1>
+<p><a href="http://www.active.com/eastford-ct/running/distance-running-races/we-never-stop-fighting-5k-in-loving-memory-of-marilyn-t-krom-2015-18596192" target="_blank">We Never Stop Fighting 5K in Loving Memory of Marilyn T. Krom</a><br />
+Eastford, CT<br />
+November 14th, 2015</p>
+<p><a href="http://register.aratrace.com/Search/event.aspx?id=28991" target="_blank">APK (Capt Andrew Pedersen-Keel) 5K</a><br />
+Madison, CT<br />
+November 8th, 2014</p>
+<p><a href="http://www.active.com/eastford-ct/running/we-never-stop-fighting-5k-in-loving-memory-of-marilyn-t-krom-2014-9515102" target="_blank">We Never Stop Fighting 5K in Loving Memory of Marilyn T. Krom</a><br />
+Eastford, CT<br />
+November 1st, 2014</p>
+<p><a href="http://www.jbsports.com/?page_id=264" target="_blank">soundRUNNER Sea Legs Shuffle<br />
+</a>Guilford, CT<br />
+August 3rd, 2014</p>
+<p><a href="http://www.active.com/running/eastford-ct/we-never-stop-fighting-5k-in-loving-memory-of-marilyn-t-krom-2013" target="_blank">We Never Stop Fighting 5K in Loving Memory of Marilyn T. Krom</a><br />
+Eastford, CT<br />
+September 14th, 2013</p>
+<p><a href="http://www.vermontcitymarathon.org/page.php?pid=1&amp;pname=home" target="_blank">KeyBank Vermont City Marathon</a><br />
+Burlington, VT<br />
+May 26th, 2013</p>
+<p><a href="http://www.nyrr.org/races-and-events/2013/nyc-half" target="_blank">NYC Half Marathon</a><br />
+Manhattan, NYC<br />
+March 17th, 2013</p>
+<p><a title="http://www.active.com/running/eastford-ct/we-never-stop-fighting-5k-in-loving-memory-of-marilyn-t-krom-2012" href="http://www.active.com/running/eastford-ct/we-never-stop-fighting-5k-in-loving-memory-of-marilyn-t-krom-2012" target="_blank">We Never Stop Fighting 5k in Loving Memory of Marilyn T. Krom</a><br />
+Eastford, CT<br />
+September 22nd, 2012</p>
+<p><a title="http://www.hopeiscoming5k.com/" href="http://www.hopeiscoming5k.com/" target="_blank">Hope is coming 5K </a><br />
+West Haven, CT<br />
+August 11th, 2012</p>
+<p><a title="http://www.runvcm.org/page.php?pid=1&amp;pname=home" href="http://www.runvcm.org/page.php?pid=1&amp;pname=home" target="_blank">KeyBank Vermont City Marathon<br />
+</a>Burlington, VT<br />
+May 27th, 2012</p>
+<p><a title="http://cheshirehalfmarathon.org/" href="http://cheshirehalfmarathon.org/" target="_blank">Cheshire Half Marathon</a><br />
+Cheshire, CT<br />
+April 29th, 2012</p>
+<p><a title="http://walkctn.nationalmssociety.org/site/PageServer?pagename=WLK_CTN_Travel_Directions" href="http://walkctn.nationalmssociety.org/site/PageServer?pagename=WLK_CTN_Travel_Directions" target="_blank">MS Walk</a><br />
+Cheshire, CT<br />
+April 22nd, 2012</p>
+<p><a title="http://www.nationalmssociety.org/chapters/ctn/fundraising-events/run-ms-5k/index.aspx" href="http://www.nationalmssociety.org/chapters/ctn/fundraising-events/run-ms-5k/index.aspx" target="_blank">A Cinco de Mayo 5k<br />
+</a>East Harford, CT<br />
+May 5th, 2012</p>
+<p><a title="http://www.facebook.com/shulasrun" href="http://www.facebook.com/shulasrun" target="_blank">Shula&#8217;s Run for Ovarian Cancer</a><br />
+Coconut Creek, FL<br />
+March 18th, 2012</p>
+<p><a title="http://www.marchforcancer.org/" href="http://www.marchforcancer.org/" target="_blank">March of Cancer<br />
+</a>Ft. Lauderdale, FL<br />
+March 17th, 2011</p>
+<p><a href="http://www.jamiesrun.org/" target="_blank">Jamie’s Run</a><br />
+Old Wethersfield, CT<br />
+November 20th, 2011</p>
+<p><a title="http://www.theconnectioninc.org/2011_Race.html" href="http://www.theconnectioninc.org/2011_Race.html" target="_blank">The Connection Fund Wicked Good 5k</a><br />
+New Haven, CT<br />
+October 30th 2011</p>
+<p><a href="http://makingstrides.acsevents.org/site/TR/MakingStridesAgainstBreastCancer/MSABCFY12National?fr_id=36130&amp;pg=entry" target="_blank">Making Strides Against Breast Cancer 5k Walk</a><br />
+Hartford, CT<br />
+October 23rd, 2011</p>
+<p><a href="http://www.newhavenroadrace.org/5k-results.htm" target="_blank">New Haven Road Race 5k</a><br />
+New Haven, CT<br />
+September 5th, 2011</p>
+<p><a href="http://www.active.com/running/danbury-ct/amber-room-run-from-the-sun-5k-2011" target="_blank">Amber Room Run from the Sun 5k</a><br />
+Danbury, CT<br />
+August 18th, 2011</p>
+<p><a href="http://www.hopeiscoming5k.com/" target="_blank">Hope is Coming 5k</a><br />
+West Haven, CT<br />
+August 6th, 2011</p>
+ 
+<!-- reset post data -->
+    
+   
+  </div>
+</div>
+
+<div id="my-menu-bottom"><div id="navigation"><div class="menu-main-navigation-container"><ul id="menu-main-navigation-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-4 current_page_item menu-item-24"><a href="http://www.helpseanfightcancer.com/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23"><a href="http://www.helpseanfightcancer.com/about-me/">About Me</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33"><a href="http://www.helpseanfightcancer.com/uterine-cancer/">Uterine Cancer</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-122"><a href="http://www.helpseanfightcancer.com/get-inspired/">Get Inspired</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-123"><a href="http://www.helpseanfightcancer.com/get-involved/">Get Involved</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-35"><a href="http://www.helpseanfightcancer.com/contact-me/">Contact Me</a></li>
+</ul></div></div></div>
+
+
+<div id="footer"><br /><p>&copy; <script type="text/javascript">document.write(new Date().getFullYear())</script> 
+Help Sean Fight Cancer - Uterine. All rights reserved.<br />Fight Cancer Connecticut  | <a href="sitemap.html" target="_self">sitemap</a></p>
+<p>Website design by: <a href="http://www.buddydesigns.com" target="_blank">Buddy Designs - CT Website Design</a></p><br /></div>
+
+</div>
+</body>
+</html>
